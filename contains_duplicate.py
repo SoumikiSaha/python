@@ -1,4 +1,4 @@
-num = [1,2,3,1]
+num = input("Enter a list:")
 
 def containsDuplicate(nums):
     hashSet = set()
